@@ -1,7 +1,4 @@
-
-
 import math
-
 
 def norm(vec):
     '''Return the norm of a vector stored as a dictionary,
